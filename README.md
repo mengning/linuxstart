@@ -17,13 +17,17 @@ copy from https://shimo.im/docs/3shYHtZ1n0ApkAfB
 
 ## 第一阶段 Linux快速入门掌握Linux的常用操作命令 
 ### 第一讲 与Linux的第一次亲密接触
-* 1.1 安装Linux系统, 以VirtualBox + Ubuntu虚拟机为例
+* 1.1 Linux发展简史与黑客文化
+* 1.2 安装Linux系统, 以VirtualBox + Ubuntu虚拟机为例
+
 https://www.virtualbox.org/wiki/Downloads
-* 1.2 购买Linux云主机，以阿里云为例
-* 1.3 Linux发展简史与黑客文化
+
+* 1.3 购买Linux云主机，以阿里云为例
 * 1.4 Linux目录结构及常用命令
+
 基本命令： ls、cd、pwd、cat、mkdir、touch 软件安装与卸载： apt-get
 软件安装与卸载： apt-get
+
 * 1.5 实战项目：安装Linux虚拟机环境，配置网络及host和vm之间共享文件
 
 
