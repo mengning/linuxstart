@@ -1,5 +1,7 @@
 # Linux从零入门实战 —— 边学边练：最有效的Linux实践之路
 
+copy from https://shimo.im/docs/3shYHtZ1n0ApkAfB
+
 ## 课程大纲
 
 ## 第一阶段 Linux快速入门掌握Linux的常用操作命令 
