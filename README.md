@@ -2,11 +2,22 @@
 
 copy from https://shimo.im/docs/3shYHtZ1n0ApkAfB
 
+## 课程介绍
+从1991年8月25日Linux Torvalds宣告Linux操作系统的诞生至今，Linux已经问世20多年了，20多年下来，Linux早已成为各大互联网公司后台开发的必备技能，可谓不懂Linux，便很难进大厂做后台开发。
+
+本课程以从零开始成长为Linux开发工程师或运维工程师为培养目标进行教学内容组织，真正做到从入门到精通，且具有平滑的学习曲线。
+
+具体包括如下四个方面的内容：
+* Linux快速入门掌握Linux的常用操作命令，快速入门Linux安装和使用；
+* Linux开发基础与shell编程，源代码编辑器、Makefile工程文件编写、基本的调试方法和运维中涉及的shell脚本编写，极速成长Linux开发So Easy；
+* 实战Linux网络与运维，网络基础操作、网络服务的安装配置、网络服务的监控运维，快速成长为Linux运维小能手；
+* Linux系统构建与内核入门，学习Linux系统的构建，并编写自己的极简内核，瞬间变为摸过Linux内核代码的小咖。
+
 ## 课程大纲
 
 ## 第一阶段 Linux快速入门掌握Linux的常用操作命令 
 ### 第一讲 Linux 介绍
-知识点1：Linux发展简史与黑客文化
+1.1 Linux发展简史与黑客文化
 知识点2：Linux 系统安装, 虚拟机 VirtualBox + Ubuntu介绍
 https://www.virtualbox.org/wiki/Downloads
 知识点3：Linux 云主机购买，阿里云为例，ssh登陆
