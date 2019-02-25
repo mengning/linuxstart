@@ -16,7 +16,7 @@ copy from https://shimo.im/docs/3shYHtZ1n0ApkAfB
 ## 课程大纲
 
 ## 第一阶段 Linux快速入门掌握Linux的常用操作命令 
-### 第一讲 与Linux的第一次亲密接触
+### 第一讲 [与Linux的第一次亲密接触](https://github.com/mengning/linuxkernel/raw/master/1与Linux的第一次亲密接触.pdf)
 
 * 1.1 Linux发展简史与黑客文化 
 * 1.2 安装Linux系统, 以Ubuntu虚拟机为例
