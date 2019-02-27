@@ -24,7 +24,7 @@ copy from https://shimo.im/docs/3shYHtZ1n0ApkAfB
 * 1.4 Linux目录结构及常用命令
 * 1.5 实验：安装Linux虚拟机环境，配置网络及共享文件
 
-### 第二讲 Linux常用操作命令
+### 第二讲 进一步熟悉和使用Linux系统
 知识点1：PATH环境变量以及常用快捷键
 知识点2：用户组与用户 
 知识点3：文件属性与权限操作 chmod、chown
