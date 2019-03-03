@@ -18,20 +18,21 @@ copy from https://shimo.im/docs/3shYHtZ1n0ApkAfB
 ## 第一阶段 Linux快速入门掌握Linux的常用操作命令 
 ### 第一讲 [与Linux的第一次亲密接触](https://github.com/mengning/linuxkernel/raw/master/1与Linux的第一次亲密接触.pdf)
 
-* 1.1 Linux发展简史与黑客文化 
-* 1.2 安装Linux系统, 以Ubuntu虚拟机为例
-* 1.3 购买Linux云主机，以阿里云主机为例
-* 1.4 Linux目录结构及常用命令
-* 1.5 实验：安装Linux虚拟机环境，配置网络及共享文件
+* Linux发展简史与黑客文化 
+* 安装Linux系统, 以Ubuntu虚拟机为例
+* 购买Linux云主机，以阿里云主机为例
+* Linux目录结构及常用命令
+* 实验：安装Linux虚拟机环境，配置网络及共享文件
 
 ### 第二讲 进一步熟悉和使用Linux系统
-知识点1：PATH环境变量以及常用快捷键
-知识点2：用户组与用户 
-知识点3：文件属性与权限操作 chmod、chown
-知识点4：find 与 grep：搜索神器find命令基本用法
-知识点5：tar 命令、ssh、sshd
-知识点6：github 简介
-实战项目：新建hello文件， 推送到自建的Github 服务器上
+* ls、cd、pwd、cat、mkdir
+* PATH环境变量以及常用快捷键
+* 用户与用户组，useradd、groupadd
+* 文件属性与权限操作，chmod、chown
+* find 与 grep：搜索神器find命令基本用法
+* tar命令
+* ssh和sshd
+* 实验：ssh登陆到你的Linux系统，使用find、grep、tar等常用命令解决具体问题
 
 
 ## 第二阶段 Linux开发基础与shell编程
