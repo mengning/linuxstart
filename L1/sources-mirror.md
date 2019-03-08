@@ -23,6 +23,8 @@ ubuntu安装好之后，使用 apt install 命令发现很慢。因为系统默�
 	deb-src http://mirrors.aliyun.com/ubuntu/ bionic-proposed main restricted universe multiverse
 	
 	deb-src http://mirrors.aliyun.com/ubuntu/ bionic-backports main restricted universe multiverse
+	
+	deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main
 
 
 将以上内容覆盖到 /etc/apt/sources.list 文件后即可，更新:
