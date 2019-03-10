@@ -57,11 +57,12 @@ copy from https://shimo.im/docs/3shYHtZ1n0ApkAfB
 实战项目：自动检测Linux系统状况：用户最近登陆日志、CPU、内存、磁盘情况
 
 ### 第五讲 Linux开发基础
-知识点1：用C语言写一个hello word程序
-知识点2：GCC与GDB 简介
-知识点3：工程文件Makefile
-知识点4：编译安装软件，找一个软件
-实战项目：C语言实现一个支持加、减、乘、除的计算器  
+
+* 用C语言写一个hello word程序
+* GCC与GDB 简介
+* 工程文件Makefile
+* 编译方式安装软件
+* 实验：C语言实现一个简单的命令行系统  
 
 
 ## 第三阶段 实战Linux网络与运维
