@@ -37,9 +37,12 @@ copy from https://shimo.im/docs/3shYHtZ1n0ApkAfB
 
 ## 第二阶段 Linux开发基础与shell编程
 ### 第三讲 Linux代码编辑器
-知识点1：VIM的基本用法
-知识点2：VS Code 简介
-实战项目：安装Vim 和 VS Code，配置环境，配置或安装插件支持C、shell、Makefile 语法高亮
+* VIM的基本用法
+* VSCode 简介
+* Git的基本用法
+* 实验：安装Vim、VSCode和Git
+* 实验：使用vim进行文本编辑、搜索替换、批量添加或删除注释
+* 实验：创建github版本库并通过git命令提交代码
 
 ### 第四讲 Linux Shell编程
 知识点1：Shell脚本入门
