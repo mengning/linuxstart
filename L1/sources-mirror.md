@@ -25,7 +25,7 @@ ubuntu安装好之后，使用 apt install 命令发现很慢。因为系统默�
 	deb-src http://mirrors.aliyun.com/ubuntu/ bionic-backports main restricted universe multiverse
 	
 
-将以上内容覆盖到 /etc/apt/sources.list 文件后即可，更新:
+将以上内容覆盖或添加到 /etc/apt/sources.list 文件后即可，更新:
 
 	sudo apt clean
 	sodo apt update
