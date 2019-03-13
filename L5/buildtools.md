@@ -3,7 +3,7 @@
 在默认情况下ubuntu没有提供c/c++编译环境， ubuntu提供了build-essential包让一次把相关软件安装好
 
 ```
-$ sudo apt-get install build-essential flex bison libssl-dev
+$ sudo apt-get install build-essential flex bison libssl-dev libelf-dev
 $ apt depends build-essential # 查看哪些包被build-essential依赖用命令
 build-essential
  |Depends: libc6-dev
