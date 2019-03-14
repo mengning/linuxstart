@@ -14,4 +14,6 @@ build-essential
   Depends: make
     make-guile
   Depends: dpkg-dev (>= 1.17.11)
+$ uname -a
+Linux ubuntu 5.0.1 #1 SMP Wed Mar 13 14:19:31 CST 2019 x86_64 x86_64 x86_64 GNU/Linux
 ```
