@@ -20,6 +20,7 @@
 * 实验：ssh登陆到你的Linux系统，使用find、grep、tar等常用命令解决具体问题
 
 ### 第三章 代码编辑和版本控制
+
 * VIM的基本用法
 * VSCode 简介
 * Git的基本用法
@@ -27,7 +28,7 @@
 * 实验：使用vim进行文本编辑、搜索替换、批量添加或删除注释
 * 实验：创建github版本库并通过git命令提交代码
 
-### 第四章 Linux Shell编程
+### 第四章 Shell脚本的基本写法
 
 * Shell脚本入门
 * Shell脚本的建立和执行
@@ -40,7 +41,7 @@
 * 循环语句(while/until/for)
 * 实战项目：自动检测Linux系统状况：用户最近登陆日志、CPU、内存、磁盘情况
 
-### 第五章 Linux开发基础
+### 第五章 gcc、gdb和Makefile
 
 * 用C语言写一个hello word程序
 * GCC与GDB 简介
