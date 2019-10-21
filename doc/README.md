@@ -29,16 +29,16 @@
 
 ### 第四章 Linux Shell编程
 
-知识点1：Shell脚本入门
-知识点2：Shell脚本的建立和执行
-知识点3：Shell环境变量
-知识点4：Shell局部变量
-知识点5：条件测试
-知识点6：Shell函数
-知识点7：if条件语句
-知识点8：case结构条件句
-知识点9：循环语句(while/until/for)
-实战项目：自动检测Linux系统状况：用户最近登陆日志、CPU、内存、磁盘情况
+* Shell脚本入门
+* Shell脚本的建立和执行
+* Shell环境变量
+* Shell局部变量
+* 条件测试
+* Shell函数
+* if条件语句
+* case结构条件句
+* 循环语句(while/until/for)
+* 实战项目：自动检测Linux系统状况：用户最近登陆日志、CPU、内存、磁盘情况
 
 ### 第五章 Linux开发基础
 
