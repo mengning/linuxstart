@@ -19,7 +19,7 @@
 * ssh和sshd
 * 实验：ssh登陆到你的Linux系统，使用find、grep、tar等常用命令解决具体问题
 
-### 第三章 Linux代码编辑器
+### 第三章 代码编辑和版本控制
 * VIM的基本用法
 * VSCode 简介
 * Git的基本用法
