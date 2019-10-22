@@ -1,4 +1,6 @@
-# 认识和使用Linux操作系统
+# 做中学操作系统
+（庖丁解牛Linux内核分析第二版）
+## 认识和使用Linux操作系统
 
 ### 第一章 [与Linux的第一次亲密接触](https://github.com/mengning/linuxkernel/raw/master/1与Linux的第一次亲密接触.pdf)
 
@@ -48,3 +50,35 @@
 * 工程文件Makefile
 * 编译方式安装软件
 * 实验：C语言实现一个简单的命令行系统  
+
+## 做中学操作系统基本原理
+
+### 第六章 操作系统的发展变化和基本概念
+
+* 什么是操作系统
+* 操作系统的简单历史
+
+### 第七章 [编程实现一个简单的Shell程序](https://github.com/mengning/mykernel/raw/master/os2013/lab3-shell.ppt)
+ * 理解进程创建、程序加载过程、进程间通信等相关原理，[实验三参考资料](https://github.com/mengning/mykernel/raw/master/os2013/lab3.rar)
+ * 运行程序，查看效果;子进程与父进程为什么在if else语句下能同时执行，执行顺序是否一定，与什么有关？解释管道工作流程。
+
+### 第八章 [编写my_realloc函数模拟realloc](https://github.com/mengning/mykernel/raw/master/os2013/lab4.ppt)
+ * 理解动态内存分配背后相关操作系统原理。
+ * 注意： my_realloc函数的参数可能与realloc不同，请根据需要自己设计my_realloc的参数
+ * my_realloc函数与系统realloc函数的背后工作机制
+
+### 第九章 [模拟cp命令的功能实现mycp程序](https://github.com/mengning/mykernel/raw/master/os2013/lab5.ppt)
+ * 将一个文件复制到目标文件（或目录）中，命令格式：mycp 源文件名 目标文件名（或目录）
+ * 将一个目录下的所有文件复制到目标目录中，命令格式：mycp 源目录 目标目录
+ * 线程检查方法：Demo & 代码分析
+ 
+### 第十章 [哲学家就餐问题引起的死锁及多线程同步方法解决哲学家就餐问题](https://github.com/mengning/mykernel/raw/master/os2013/lab6.pdf)
+ * [实验资料](https://github.com/mengning/mykernel/raw/master/os2013/lab6.rar)
+ * 死锁现象
+ * 解决死锁的算法，并解释相关代码。
+ 
+### 第十一章 [I/O设备驱动](https://github.com/mengning/mykernel/raw/master/os2013/lab7.ppt)
+ * [实验资料](https://github.com/mengning/mykernel/raw/master/os2013/lab7.rar)
+ * 学会加载和卸载驱动
+ * 编写用户态测试程序，调用用户态下的open、close、read、write、ioctl函数，验证自己对程序的理解是否正确
+ * 加载驱动,运行用户态测试程序，解释运行结果与驱动源代码之间的关系
