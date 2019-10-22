@@ -1,5 +1,8 @@
-# 做中学操作系统
+# 做中学操作系统 Learning OS by Doing
 （庖丁解牛Linux内核分析第二版）
+
+以做中学的方式，将知识体系融入一个个小项目中。
+
 ## 认识和使用Linux操作系统
 
 ### 第一章 [与Linux的第一次亲密接触](https://github.com/mengning/linuxkernel/raw/master/1与Linux的第一次亲密接触.pdf)
@@ -82,3 +85,7 @@
  * 学会加载和卸载驱动
  * 编写用户态测试程序，调用用户态下的open、close、read、write、ioctl函数，验证自己对程序的理解是否正确
  * 加载驱动,运行用户态测试程序，解释运行结果与驱动源代码之间的关系
+ 
+ # 庖丁解牛Linux内核分析
+ 
+ 庖丁解牛Linux内核分析第一版的内容
